@@ -1,10 +1,10 @@
 # scrapy项目2--天猫商城
 
-* (创建工程)[#创建工程]
-* (item编写)[#item编写]
-* (spider编写)[#spider编写]
-* (settings设置)[#settings设置]
-* (保存数据)[#保存数据]
+* [创建工程](#创建工程)
+* [item编写](#item编写)
+* [spider编写](#spider编写)
+* [settings设置](#settings设置)
+* [保存数据](#保存数据)
 
 ## 创建工程
 在命令行中当前文件夹下
